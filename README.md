@@ -1,6 +1,6 @@
 # Daphne Toolkit
 
-Wizardry Variants Daphne 的简易修改工具，提供属性调整、战斗倍速和技能无消耗。属于个人学习与实验项目，功能和适配范围有限。
+Wizardry Variants Daphne 的简易修改工具，提供属性调整、战斗倍速和技能无消耗。个人学习与实验项目，功能和适配范围有限。
 
 **[下载最新版 Daphne.exe](https://github.com/lin123p/daphne-toolkit/releases/latest/download/Daphne.exe)** · [查看版本记录](https://github.com/lin123p/daphne-toolkit/releases)
 
@@ -22,4 +22,4 @@ Wizardry Variants Daphne 的简易修改工具，提供属性调整、战斗倍�
 
 ## 免责声明
 
-本项目仅供学习、研究与技术交流使用。使用者应自行评估并承担使用风险，作者不对工具的兼容性、稳定性及使用后果作出保证。
+本项目仅供学习、研究与技术交流使用。使用时应自行评估并承担使用风险，不对工具的兼容性、稳定性及使用后果作出保证。
